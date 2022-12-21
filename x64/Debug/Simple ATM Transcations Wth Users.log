@@ -1,0 +1,3 @@
+﻿  Simple ATM Transcations Wth Users.cpp
+C:\BookReviewApp\Simple ATM Transcations Wth Users\Simple ATM Transcations Wth Users.cpp(17,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Simple ATM Transcations Wth Users.vcxproj -> C:\BookReviewApp\Simple ATM Transcations Wth Users\x64\Debug\Simple ATM Transcations Wth Users.exe
